@@ -24,6 +24,7 @@ Abrir [http://localhost:3000](http://localhost:3000) para visualizar en el naveg
 La práctica consta de un gráfico que muestra la representación de la transformada de Fourier seleccionada en la lista de opciones.
 
  Las gráficas definidas en el programa son:
+ 
  ![](./Images/GRAPH1.jpg)
  ![](./Images/GRAPH2.jpg)
  ![](./Images/GRAPH3.jpg)
